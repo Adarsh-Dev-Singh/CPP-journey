@@ -1,5 +1,3 @@
-int  x = 100;
-    int &y = x;
-    int &z = y;
-    cout<<x<<endl<<y<<endl<<z<<endl;
+
+int main(){
     return 0;

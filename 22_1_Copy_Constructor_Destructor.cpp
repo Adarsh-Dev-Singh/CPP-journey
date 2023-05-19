@@ -65,19 +65,17 @@ class gclass{
 };
 
 int main(){
-    while (10>9)
-    {
+
         
     
     
-    gclass x , y(10) , z;
+    gclass x , y(10) , z(100);
     x.printg();
     y.printg();
     z.printg();
     {
     gclass z1(z);
     z1.printg();
-    }
     }
     return 0;
 }
