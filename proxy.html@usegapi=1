@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title></title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<script nonce="m692FICQ2wZoClK8lkI0vQ">
+  window['startup'] = function() {
+    googleapis.server.init();
+  };
+</script>
+<script src="https://apis.google.com/js/googleapis.proxy.js?onload=startup" async defer nonce="m692FICQ2wZoClK8lkI0vQ"></script>
+</head>
+<body>
+</body>
+</html>

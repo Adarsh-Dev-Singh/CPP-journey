@@ -29,7 +29,7 @@ int main(){
         cout<<"Enter the value of imaginary part in complex number "<<endl;
         cin>>y;
         
-        ++q;
+        q++;
         
         number[i].Setdata(x , y);
         number[i].print_number();
@@ -48,4 +48,4 @@ int main(){
 }
 /*This program throws garbage values when object is passed as class argument i.e set _data_by_sum isn't working properly 
 Check it bro 
-Tadaah Congratxxxxx*/
+Tadaah Congratxxxxx/ (Its working properly now!!!)*/
